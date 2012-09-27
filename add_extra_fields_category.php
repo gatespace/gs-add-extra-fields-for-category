@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: gatespace add extra fields for category
-Plugin URI: http://gatespace.wordpress.com/
+Plugin URI: https://github.com/gatespace/gs-add-extra-fields-for-category
 Description: カテゴリーにテキスト色と背景色のカスタムフィールドを追加します。入力はカラーピッカーで行えます。また、その場で配色を確認できます。
 Version: 0.1
 Author: gatespace
